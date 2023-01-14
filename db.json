@@ -3,8 +3,8 @@
     [
         {
             "id": "04b6bbc4-ca05-45f0-8b13-569a237f1d6c",
-            "first name": "Janet",
-            "last name": "O'Connell",
+            "first_name": "Janet",
+            "last_name": "O'Connell",
             "username": "Janet_Mitchell63",
             "phone": "8005030017",
             "emailId": "Janet.McCullough7@gmail.com",
@@ -108,8 +108,8 @@
         },
         {
             "id": "9c3ab032-4133-4090-a7e9-3b7374f45c04",
-            "first name": "Troy",
-            "last name": "Prosacco",
+            "first_name": "Troy",
+            "last_name": "Prosacco",
             "username": "Troy41",
             "phone": "7441158187",
             "emailId": "Troy.Prosacco@gmail.com",
@@ -223,8 +223,8 @@
         },
         {
             "id": "a488eaa2-3034-4337-b7b2-ddaac204da2a",
-            "first name": "Dana",
-            "last name": "Koch",
+            "first_name": "Dana",
+            "last_name": "Koch",
             "username": "Dana.Koch98",
             "phone": "4126341961",
             "emailId": "Dana.Koch@hotmail.com",
@@ -324,8 +324,8 @@
         },
         {
             "id": "58cb7bb9-45dd-4e74-b49f-d9808126b205",
-            "first name": "Paul",
-            "last name": "Rutherford",
+            "first_name": "Paul",
+            "last_name": "Rutherford",
             "username": "Paul.Rutherford53",
             "phone": "3631965103",
             "emailId": "Paul_Rutherford65@hotmail.com",
@@ -421,8 +421,8 @@
         },
         {
             "id": "95114001-87ab-4cb3-9e74-a54b4ceba481",
-            "first name": "Anita",
-            "last name": "Heathcote",
+            "first_name": "Anita",
+            "last_name": "Heathcote",
             "username": "Anita_Heathcote69",
             "phone": "2163581829",
             "emailId": "Anita55@hotmail.com",
